@@ -1,0 +1,6 @@
+C:\Users\Bakhodir_Radjabov\Desktop\Accessment Senior Developer\Study\.NET\Profile_And_Optimize\ProfileModule5\HashCalculate\HashCalcFunc\bin\Debug\HashCalcFunc.exe.config
+C:\Users\Bakhodir_Radjabov\Desktop\Accessment Senior Developer\Study\.NET\Profile_And_Optimize\ProfileModule5\HashCalculate\HashCalcFunc\bin\Debug\HashCalcFunc.exe
+C:\Users\Bakhodir_Radjabov\Desktop\Accessment Senior Developer\Study\.NET\Profile_And_Optimize\ProfileModule5\HashCalculate\HashCalcFunc\bin\Debug\HashCalcFunc.pdb
+C:\Users\Bakhodir_Radjabov\Desktop\Accessment Senior Developer\Study\.NET\Profile_And_Optimize\ProfileModule5\HashCalculate\HashCalcFunc\obj\Debug\HashCalcFunc.csproj.CoreCompileInputs.cache
+C:\Users\Bakhodir_Radjabov\Desktop\Accessment Senior Developer\Study\.NET\Profile_And_Optimize\ProfileModule5\HashCalculate\HashCalcFunc\obj\Debug\HashCalcFunc.exe
+C:\Users\Bakhodir_Radjabov\Desktop\Accessment Senior Developer\Study\.NET\Profile_And_Optimize\ProfileModule5\HashCalculate\HashCalcFunc\obj\Debug\HashCalcFunc.pdb
